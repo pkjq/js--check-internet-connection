@@ -1,0 +1,21 @@
+{
+    "name": "internet-connection-checker",
+    "version": "0.0.1",
+    "description": "check internet connection by third-party corporations servers (Google, Apple, Microsoft)",
+    "main": "internet_connection_checker.js",
+    "keywords": [
+        "internet connection"
+    ],
+    "author": "pkjq",
+    "license": "MIT",
+    "dependencies": {
+        "@log4js-node/log4js-api": "^1.0.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pkjq/js--check-internet-connection.git"
+    }
+}

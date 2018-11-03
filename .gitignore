@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+/build
+/package-lock.json
+
+/*.log
+/trace.log*.gz
+
+/.vscode
