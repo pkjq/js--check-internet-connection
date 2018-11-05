@@ -1,6 +1,6 @@
 {
     "name": "internet-connection-checker",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "check internet connection by third-party corporations servers (Google, Apple, Microsoft)",
     "main": "internet_connection_checker.js",
     "keywords": [
